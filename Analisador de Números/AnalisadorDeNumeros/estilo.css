@@ -1,0 +1,28 @@
+body{
+    background: rgb(10, 40, 58);
+    font: normal 15pt Times;
+}
+
+header{
+    color: white;
+    text-align:center; /*centraliza o texto*/
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto; /*centraliza*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363); /*Sobreamento*/
+}
+
+footer{
+    color: white; 
+    text-align: center;
+    font-style: italic;
+}
+
+select#numAd {
+    width: 200px;
+}
